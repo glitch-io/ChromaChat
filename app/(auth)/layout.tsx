@@ -26,7 +26,7 @@ export default function RootLayout({
     >
       <html lang="en">
         <body
-          className={`flex justify-center  ${inter.className} bg-dark-1 my-10`}
+          className={`flex justify-center  ${inter.className} bg-dark-1`}
         >
           {children}
         </body>
